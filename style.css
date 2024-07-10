@@ -80,3 +80,12 @@
 
 }
 
+/* I started using Inline CSS instead of using External after this part. Because I thought there is too many specified style I'll have to do and this small mind of mine is already out of class names (-_-) */
+
+::placeholder{
+    
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+
+}
